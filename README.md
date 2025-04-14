@@ -161,6 +161,7 @@ NAME        READY   STATUS    RESTARTS   AGE
 hashibank   1/1     Running   0          72m
 ```
 
+
 Browsing to your HashiBank ingress IP address will show the following webpage.
 ![Screenshot](images/hashibank.png)
 
